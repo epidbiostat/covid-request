@@ -1,6 +1,5 @@
 # covid-request
-Welcome to this repository from AI4PH
-This repository has a python script used for final exam to understand the current COVID-19 situation in Ontario.
+Welcome to this repository from AI4PH.  This repository has a python script to explore the current COVID-19 situation in Ontario.
 
 Useful resources:
 1. AI4PH course website: https://ai4ph.ca-central.catalog.canvaslms.com/courses/the-tools-for-data-science-notebooks-and-versioning
