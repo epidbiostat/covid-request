@@ -10,5 +10,8 @@ Useful resources:
 	GitHub: https://github.com/
 	GitHub Desktop: https://desktop.github.com
 	Python 3.11.5: https://www.python.org/downloads/release/python-3115//
-4. Data sources from Ministry of Health, Ontario.
-	https://data.ontario.ca/en/organization/health
+4. Data sources from Ministry of Health, Ontario. https://data.ontario.ca/en/organization/health
+	- [Confirmed positive cases of COVID-19](https://data.ontario.ca/en/dataset/confirmed-positive-cases-of-covid-19-in-ontario)  
+	- [COVID-19 testing percent positive by age group](https://data.ontario.ca/en/dataset/ontario-covid-19-testing-percent-positive-by-age-group)  
+	- [COVID-19 cases in hospital and ICU](https://data.ontario.ca/en/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region)  
+	- [Availability of adult and pediatric ICU beds and occupancy for COVID-related critical illness](https://data.ontario.ca/en/dataset/availability-of-adult-icu-beds-and-occupancy-for-covid-related-critical-illness-crci)
